@@ -1,4 +1,4 @@
-# Web-Development-with-Django-Python
+# Installation of Django and Python
 Django-Course
 basic step-by-step guide to creating a project app in Django along with commands to run the development server:
 
